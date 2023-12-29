@@ -1,22 +1,22 @@
+# Sbmovies
 
-Sbmovies
-Welcome to the Sbmovies repository! This project is created and maintained by sandeshsb9.
-
-
-Project Structure
-img: Contains images used in the project.
-index.html: Main HTML file for the project.
-movies.html: HTML file for displaying movies.
-script.js: JavaScript file containing project scripts.
-styles.css: CSS file for styling the project.
+Welcome to the Sbmovies repository! This project is created and maintained by **sandeshsb9**.
 
 
-Contributing
+## Project Structure
+- **img**: Contains images used in the project.
+- **index.html**: Main HTML file for the project.
+- **movies.html**: HTML file for displaying movies.
+- **script.js**: JavaScript file containing project scripts.
+- **styles.css**: CSS file for styling the project.
+
+## Contributing
 If you'd like to contribute to this project, feel free to open an issue or submit a pull request.
 
-License
+## License
+This project is licensed under the [MIT License](LICENSE).
 
-This project is licensed under the MIT License.
+---
 
+**Thank you for checking out Sbmovies! If you have any questions or suggestions, feel free to reach out.**
 
-Thank you for checking out Sbmovies! If you have any questions or suggestions, feel free to reach out.
