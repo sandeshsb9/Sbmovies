@@ -2,6 +2,8 @@
 
 Welcome to the Sbmovies repository! This project is created and maintained by **sandeshsb9**.
 
+![Project Image 1](img/project_img.png)
+![Project Image 2](img/project_img2.png)
 
 ## Project Structure
 - **img**: Contains images used in the project.
@@ -19,4 +21,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 **Thank you for checking out Sbmovies! If you have any questions or suggestions, feel free to reach out.**
-
